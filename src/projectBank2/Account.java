@@ -12,7 +12,7 @@ public class Account {
     private String kontoPLNSecond;
 
     public Account() {
-        kontoPLN = "Account number: 123456";
+        kontoPLN = "Account number: 1234562";
         kontoGBP = "Account number: 654321";
         kontoPLNSecond = "Account number: 223399";
     }
